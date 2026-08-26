@@ -4,10 +4,6 @@ from triqs.operators import *
 from triqs.gf import *
 from triqs.atom_diag import *
 
-import sys
-sys.path.append("/Users/ShuyuZhang/Documents/Projects/Cyrus/Codes/d_orbital_atom_Cyrus/defect_atom_diag/")
-sys.path.append("/Users/ShuyuZhang/Documents/Projects/Cyrus/Codes/tn_imp_solver/benchmark/functions/")
-from def_atom_diag import *
 from utils import *
 
 
