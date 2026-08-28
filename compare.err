@@ -1,0 +1,2 @@
+Starting run with 128 MPI rank(s) at : 2026-08-25 16:42:30.663087
+slurmstepd: error: *** JOB 6940419 ON worker5056 CANCELLED AT 2026-08-26T16:42:14 DUE TO TIME LIMIT ***
