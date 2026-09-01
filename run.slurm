@@ -8,6 +8,6 @@
 #SBATCH -e %x.err
 
 
-module load triqs-tprf
+module load triqs
 
 mpirun python 2_by_2_plaquette.py

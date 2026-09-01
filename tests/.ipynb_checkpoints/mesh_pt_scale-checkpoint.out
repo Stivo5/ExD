@@ -1,0 +1,26 @@
+states in subspace  0 : 
+| 0101 >
+| 0110 >
+| 1001 >
+| 1010 >
+states in subspace  1 : 
+| 0011 >
+states in subspace  2 : 
+| 1100 >
+states in subspace  3 : 
+| 0001 >
+| 0010 >
+states in subspace  4 : 
+| 0111 >
+| 1011 >
+states in subspace  5 : 
+| 0100 >
+| 1000 >
+states in subspace  6 : 
+| 1101 >
+| 1110 >
+states in subspace  7 : 
+| 0000 >
+states in subspace  8 : 
+| 1111 >
+Finished sorting states
