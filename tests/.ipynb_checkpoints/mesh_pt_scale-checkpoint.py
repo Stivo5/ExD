@@ -8,7 +8,7 @@ from triqs.plot.mpl_interface import oplot
 import sys
 sys.path.append("../")
 from sort import sort_states_full
-from three_pt_corr_Ver2 import ThreePtCorr
+from three_pt_corr import ThreePtCorr
 
 import triqs.utility.mpi as mpi
 
@@ -78,5 +78,5 @@ if mpi.is_master_node():
     with HDFArchive("n_vs_time.h5", 'w') as A:
         A["mesh_pt"] = mesh_pt
         A["time"] = t
-        A["G"] = G
+        # A["G"] = G
 

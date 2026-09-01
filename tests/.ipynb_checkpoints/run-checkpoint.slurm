@@ -13,4 +13,6 @@ export PYTHONPATH="/mnt/sw/nix/store/7x5jhsqlyg8cgr410f39ic85q37sx177-py-mpi4py-
 
 
 
+export PYTHONUNBUFFERED=1
+
 python mesh_pt_scale.py
