@@ -61,7 +61,7 @@ ops = [(c_dag('up', 1), 'Fermion'),
 
 corr = ThreePtCorr(ops = ops, hamiltonian = (ad, eigensys))
 
-mesh_pt = np.arange(10,1000,50)
+mesh_pt = np.arange(500,1000,50)
 t = []
 G = []
 for n in mesh_pt:

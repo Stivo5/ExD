@@ -1,0 +1,1931 @@
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+                                 ^^^^
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+                                 ^^^^
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/2_by_2_plaquette.py", line 17, in <module>
+    biw_mesh = MeshImFreq(beta = beta, statistic = 'Boson', n_iw = bn_iw)
+                                 ^^^^
+NameError: name 'beta' is not defined. Did you mean: 'delta'?
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[21060,1],628]
+  Exit code:    1
+--------------------------------------------------------------------------
