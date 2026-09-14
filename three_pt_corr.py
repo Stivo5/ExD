@@ -31,6 +31,7 @@ if _HAS_NUMBA:
         """
         if abs(x) > 1e-8:
             return np.expm1(x * beta) / x
+            # return (np.exp(x * beta)-1) / x
         else:
             return beta
 
@@ -43,6 +44,7 @@ if _HAS_NUMBA:
         if abs(x) > 1e-8:
             eb = np.exp(x * beta)
             return beta * eb / x - np.expm1(x * beta) / (x * x)
+            # return beta * eb / x - (np.exp(x * beta)-1) / (x * x)
         else:
             return beta * beta / 2.0
 
@@ -433,81 +435,81 @@ class ThreePtCorr:
             )
 
         else:
+            raise ImportError("ThreePtCorr requires numba")
 
-            # -----------------------------------------------------------
-            # Fallback implementation.
-            #
-            # Still considerably faster than the original because:
-            #   - everything is NumPy arrays
-            #   - exp(-beta E) is precomputed
-            #   - matrix indexing is local
-            # -----------------------------------------------------------
+            # # -----------------------------------------------------------
+            # # Fallback implementation.
+            # #
+            # # Still considerably faster than the original because:
+            # #   - everything is NumPy arrays
+            # #   - exp(-beta E) is precomputed
+            # #   - matrix indexing is local
+            # # -----------------------------------------------------------
 
-            M0 = mats[0]
-            M1 = mats[1]
-            M2 = mats[2]
+            # M0 = mats[0]
+            # M1 = mats[1]
+            # M2 = mats[2]
 
-            data = np.zeros(
-                (len(iw1), len(iw2)),
-                dtype=np.complex128,
-            )
+            # data = np.zeros(
+            #     (len(iw1), len(iw2)),
+            #     dtype=np.complex128,
+            # )
 
-            exchange_sign = self.sgns[0][0][1]
+            # exchange_sign = self.sgns[0][0][1]
 
-            for ii, w1 in enumerate(iw1):
+            # for ii, w1 in enumerate(iw1):
 
-                for jj, w2 in enumerate(iw2):
+            #     for jj, w2 in enumerate(iw2):
 
-                    total = 0.0j
+            #         total = 0.0j
 
-                    for m in range(N):
+            #         for m in range(N):
 
-                        Em = E[m]
-                        bm = boltz[m]
+            #             Em = E[m]
+            #             bm = boltz[m]
 
-                        for n in range(N):
+            #             for n in range(N):
 
-                            Emn = Em - E[n]
+            #                 Emn = Em - E[n]
 
-                            a0 = bm * M0[m, n]
-                            a1 = bm * M1[m, n]
+            #                 a0 = bm * M0[m, n]
+            #                 a1 = bm * M1[m, n]
 
-                            for k in range(N):
+            #                 for k in range(N):
 
-                                Emk = Em - E[k]
+            #                     Emk = Em - E[k]
 
-                                I = div_diff_exp_int_1ord(
-                                    [
-                                        w1 + Emn,
-                                        w1 + w2 + Emk,
-                                    ],
-                                    beta=beta,
-                                )
+            #                     I = div_diff_exp_int_1ord(
+            #                         [
+            #                             w1 + Emn,
+            #                             w1 + w2 + Emk,
+            #                         ],
+            #                         beta=beta,
+            #                     )
 
-                                total += (
-                                    a0
-                                    * M1[n, k]
-                                    * M2[k, m]
-                                    * I
-                                )
+            #                     total += (
+            #                         a0
+            #                         * M1[n, k]
+            #                         * M2[k, m]
+            #                         * I
+            #                     )
 
-                                I = div_diff_exp_int_1ord(
-                                    [
-                                        w2 + Emn,
-                                        w1 + w2 + Emk,
-                                    ],
-                                    beta=beta,
-                                )
+            #                     I = div_diff_exp_int_1ord(
+            #                         [
+            #                             w2 + Emn,
+            #                             w1 + w2 + Emk,
+            #                         ],
+            #                         beta=beta,
+            #                     )
 
-                                total += (
-                                    exchange_sign
-                                    * a1
-                                    * M0[n, k]
-                                    * M2[k, m]
-                                    * I
-                                )
-
-                    data[ii, jj] = -total / Z
+            #                     total += (
+            #                         exchange_sign
+            #                         * a1
+            #                         * M0[n, k]
+            #                         * M2[k, m]
+            #                         * I
+            #                     )
+            
 
         # ---------------------------------------------------------------
         # Normalize by partition function.

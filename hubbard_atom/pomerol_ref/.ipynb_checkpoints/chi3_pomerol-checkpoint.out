@@ -1,0 +1,25 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) modules/2.4-20250724   2) intel-oneapi-mkl/2024.2.2
+Error fetching ranges
+The docker module can be used to run a rootless docker daemon on your own workstation. If you have a workstation
+and you'd like to use docker, please try loading it there. For more details, see:
+https://wiki.flatironinstitute.org/SCC/Software/DockerSingularity 
+Starting serial run at: 2026-09-11 09:54:48.927027
+Warning: could not identify MPI environment!
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/pomerol_ref/chi3_pomerol.py", line 37, in <module>
+    ed = PomerolED(index_converter, verbose = True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: .. Error occurred at Fri Sep 11 09:54:50 2026
+
+.. Error .. in calling C++ overload of constructor :
+.. (no C++ name)(pomerol2triqs::index_converter_t index_converter, bool verbose) -> 
+.. C++ error was : 
+Triqs runtime error
+    at /home/wentzell/Dropbox/SoftwareSetups/triqs_4.0.x_gcc/pomerol2triqs.src/c++/pomerol_ed.cpp : 29
+
+pomerol2triqs does not support running in the serial (no MPI) mode
+Exception was thrown on node .. C++ trace is : 
+

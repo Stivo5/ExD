@@ -1,4 +1,4 @@
-# from h5 import HDFArchive
+from h5 import HDFArchive
 from triqs.atom_diag import AtomDiagComplex
 from triqs.operators import n, c, c_dag
 from itertools import product
@@ -7,6 +7,8 @@ from itertools import product
 from sort import sort_states_full
 from three_pt_corr import *
 from four_pt_corr_v2 import FourPtCorr
+
+import triqs.utility.mpi as mpi
 
 
 
@@ -94,3 +96,11 @@ ops = [(c_dag('up', 0), 'Fermion'),
 corr = FourPtCorr(ops = ops, hamiltonian = (ad, eigensys))
 
 G = corr.G_div_diff_iw(beta = beta, n_iw = [10,10,10])
+
+
+print("Ends computation.")
+
+if mpi.is_master_node():
+    with HDFArchive("plaq_4pt.h5",'w') as A:
+        A["G"] = G
+
