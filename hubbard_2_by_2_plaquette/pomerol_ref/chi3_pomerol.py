@@ -63,3 +63,4 @@ if mpi.is_master_node():
         for x, y, z, w in product(range(2),repeat=4):
             ar[f'%i%i%i%i'%(x,y,z,w)] = chi2[f'%i%i%i%i'%(x,y,z,w)]
         ar["chi3_ph_AABB"] = chi3_ph_AABB
+        ar['energies'] = ed.energies

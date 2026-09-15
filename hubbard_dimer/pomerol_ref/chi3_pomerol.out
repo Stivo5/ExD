@@ -1,0 +1,386 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) modules/2.4-20250724   2) openblas/single-0.3.29
+Error fetching ranges
+The docker module can be used to run a rootless docker daemon on your own workstation. If you have a workstation and you'd like to use
+docker, please try loading it there. For more details, see: https://wiki.flatironinstitute.org/SCC/Software/DockerSingularity 
+
+Lmod is automatically replacing "openblas/single-0.3.29" with "intel-oneapi-mkl/2024.2.2".
+
+--------------------------------------------------------------------------
+Ignoring value for oob_tcp_if_exclude on worker7220 (10.250.112.0/20: Did not find interface matching this subnet).
+(You can safely ignore this message.)
+--------------------------------------------------------------------------
+Starting run with 90 MPI rank(s) at : 2026-09-15 13:12:53.461044
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+Traceback (most recent call last):
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+Traceback (most recent call last):
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+Traceback (most recent call last):
+  File "/mnt/home/szhang2/ExD/hubbard_dimer/pomerol_ref/chi3_pomerol.py", line 6, in <module>
+    from pomerol2triqs import pom_chi3
+ImportError: cannot import name 'pom_chi3' from 'pomerol2triqs' (/mnt/home/wentzell/opt/triqs_4.0.x_gcc/lib/python3.12/site-packages/pomerol2triqs/__init__.py)
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[51776,1],43]
+  Exit code:    1
+--------------------------------------------------------------------------

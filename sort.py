@@ -31,6 +31,7 @@ def sort_states_full(spin_names,orb_names,ad,verbose=True):
     n_orb=len(orb_names)
     n_spin=len(spin_names)
 
+    # gs_energy = ad.gs_energy
     
     n_eigenvec=0.0
     eigensys=[]
