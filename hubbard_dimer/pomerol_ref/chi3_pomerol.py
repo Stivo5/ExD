@@ -51,17 +51,17 @@ ed.diagonalize(H)
 ##################
 
 
-chi2 = dict()
-for x, y, z, w in product(range(2),repeat=4):
-    chi2[f'%i%i%i%i'%(x,y,z,w)] = ed.chi_iw(("up", x), ("up", y), ("up", z), ("up", w),beta,n_iw, connected=False)
+# chi2 = dict()
+# for x, y, z, w in product(range(2),repeat=4):
+#     chi2[f'%i%i%i%i'%(x,y,z,w)] = ed.chi_iw(("up", x), ("up", y), ("up", z), ("up", w),beta,n_iw, connected=False)
 
-params = {'gf_struct': gf_struct, 'beta': beta, 'n_iw': 100, 'n_inu': 100}
+params = {'gf_struct': gf_struct, 'beta': beta, 'n_iw': 500, 'n_inu': 500}
 chi3_ph_AABB = ed.chi3_iw_inu(**params, channel='PH', block_order='AABB')
 
 
 if mpi.is_master_node():
     with HDFArchive('../pomerol_ref.h5', 'w') as ar:
-        for x, y, z, w in product(range(2),repeat=4):
-            ar[f'%i%i%i%i'%(x,y,z,w)] = chi2[f'%i%i%i%i'%(x,y,z,w)]
+        # for x, y, z, w in product(range(2),repeat=4):
+        #     ar[f'%i%i%i%i'%(x,y,z,w)] = chi2[f'%i%i%i%i'%(x,y,z,w)]
         ar["chi3_ph_AABB"] = chi3_ph_AABB
         ar['energies'] = ed.energies

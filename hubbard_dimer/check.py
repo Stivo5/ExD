@@ -10,7 +10,7 @@ sys.path.append('../')
 
 
 from sort import sort_states_full
-from three_pt_corr import *
+from three_pt_corr_v2 import *
 
 import triqs.utility.mpi as mpi
 
@@ -18,9 +18,9 @@ import triqs.utility.mpi as mpi
 
 
 # Number of bosonic Matsubara frequencies for susceptibility calculation
-bn_iw = 100
+bn_iw = 500
 # Number of fermionic Matsubara frequencies for susceptibility calculation
-fn_iw = 100
+fn_iw = 500
 
 beta = 2.0             # Inverse temperature
 
