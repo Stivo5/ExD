@@ -10,7 +10,7 @@ sys.path.append('../')
 
 
 from sort import sort_states_full
-from three_pt_corr import *
+from three_pt_corr_v2 import *
 
 import triqs.utility.mpi as mpi
 
@@ -81,47 +81,47 @@ for s1, s2 in product(spin_names, repeat=2):
 
 
 
-################
-# Load Pomerol #
-################
+# ################
+# # Load Pomerol #
+# ################
 
-ref = HDFArchive("pomerol_ref.h5", 'r')
-chi3_ref = ref['chi3_ph_AABB']
-
-
+# ref = HDFArchive("pomerol_ref.h5", 'r')
+# chi3_ref = ref['chi3_ph_AABB']
 
 
 
-###########
-# Compare #
-###########
-binary_strings = [f"{i:04b}" for i in range(16)]
 
-f = [p.index for p in fiw_mesh]
 
-for s1, s2 in product(spin_names, repeat=2):
-    spin = []
-    error = []
-    overlap = []
+# ###########
+# # Compare #
+# ###########
+# binary_strings = [f"{i:04b}" for i in range(16)]
+
+# f = [p.index for p in fiw_mesh]
+
+# for s1, s2 in product(spin_names, repeat=2):
+#     spin = []
+#     error = []
+#     overlap = []
     
-    for s in binary_strings:
-        g_ref = chi3_ref[s1,s2][int(s[0]),int(s[1]),int(s[2]),int(s[3])]
-        g = chi3[s1+s2][s]
-        worst = 0.0  # Greatest difference
-        n = 0  # Number of points in overlap
-        for iOmega in g_ref.mesh[0]:
-            for inu in g_ref.mesh[1]:
-                a, b = -inu.index - 1, iOmega.index + inu.index
-                if a in f and b in f:
-                    d = abs(g[Idx(a), Idx(b)] + g_ref[Idx(iOmega.index), Idx(inu.index)])
-                    worst = max(worst, d)
-                    n += 1
-        spin.append(s)
-        error.append(worst)
-        overlap.append(n)
+#     for s in binary_strings:
+#         g_ref = chi3_ref[s1,s2][int(s[0]),int(s[1]),int(s[2]),int(s[3])]
+#         g = chi3[s1+s2][s]
+#         worst = 0.0  # Greatest difference
+#         n = 0  # Number of points in overlap
+#         for iOmega in g_ref.mesh[0]:
+#             for inu in g_ref.mesh[1]:
+#                 a, b = -inu.index - 1, iOmega.index + inu.index
+#                 if a in f and b in f:
+#                     d = abs(g[Idx(a), Idx(b)] + g_ref[Idx(iOmega.index), Idx(inu.index)])
+#                     worst = max(worst, d)
+#                     n += 1
+#         spin.append(s)
+#         error.append(worst)
+#         overlap.append(n)
     
         
-    if mpi.is_master_node():
-        print(f"Spin configuration is ({s1},{s2})")
-        for i in range(len(spin)):
-            print(f'Orbital configuration {spin[i]}, max difference is {error[i]}, number of points checked {overlap[i]}')
+#     if mpi.is_master_node():
+#         print(f"Spin configuration is ({s1},{s2})")
+#         for i in range(len(spin)):
+#             print(f'Orbital configuration {spin[i]}, max difference is {error[i]}, number of points checked {overlap[i]}')
