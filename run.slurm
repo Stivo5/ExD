@@ -19,5 +19,5 @@ export PYTHONPATH="/mnt/home/szhang2/miniforge3/envs/ExD/lib/python3.11/site-pac
 
 ulimit -l unlimited
 
-# mpirun python 2_by_2_plaquette.py
-mpirun python dimer.py
+mpirun python 2_by_2_plaquette.py
+# mpirun python dimer.py

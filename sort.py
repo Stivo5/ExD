@@ -14,7 +14,7 @@ import sympy as sp
 
 #*************************************************************************************
 # Print out information about the states
-def sort_states_full(spin_names,orb_names,ad,verbose=True):
+def sort_states_full(spin_names,orb_names,ad,verbose=False):
     '''
     Sort eigenstates and write them in fock basis
     
@@ -41,7 +41,7 @@ def sort_states_full(spin_names,orb_names,ad,verbose=True):
         
         # convert states in computational basis
         subspace_fock_state=[]
-        print('states in subspace ', sub, ': ')
+        # print('states in subspace ', sub, ': ')
         for fs in ad.fock_states[sub]:
             state =int(bin(fs)[2:])
                 
@@ -49,7 +49,7 @@ def sort_states_full(spin_names,orb_names,ad,verbose=True):
             # to fill in the leading 0's in computational basis
             state_comp = f'{state:0{state_len}d}'
             subspace_fock_state.append(state_comp)
-            print('|', state_comp, '>')
+            # print('|', state_comp, '>')
        
 
         u_mat=ad.unitary_matrices[sub].conj().T
