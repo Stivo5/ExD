@@ -1,1 +1,4 @@
 tests/n_vs_time.h5
+hubbard_dimer/pomerol_ref.h5
+hubbard_2_by_2_plaquette/pomerol_ref.h5
+hubbard_dimer/pomerol_n500.h5
