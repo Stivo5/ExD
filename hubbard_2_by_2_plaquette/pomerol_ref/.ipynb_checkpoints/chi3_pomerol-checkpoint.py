@@ -101,7 +101,7 @@ ed.diagonalize(H)
 # for x, y, z, w in product(range(2),repeat=4):
 #     chi2[f'%i%i%i%i'%(x,y,z,w)] = ed.chi_iw(("up", x), ("up", y), ("up", z), ("up", w),beta,n_iw, connected=False)
 
-params = {'gf_struct': gf_struct, 'beta': beta, 'n_iw': 10, 'n_inu': 10}
+params = {'gf_struct': gf_struct, 'beta': beta, 'n_iw': 50, 'n_inu': 50}
 chi3_ph_AABB = ed.chi3_iw_inu(**params, channel='PH', block_order='AABB')
 
 
