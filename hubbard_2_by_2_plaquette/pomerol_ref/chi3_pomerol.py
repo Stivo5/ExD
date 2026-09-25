@@ -17,7 +17,7 @@ beta = 2.0              # Inverse temperature
 
 eps = [-1.9, -2.1, -1.9, -2.1]  # On-site energies
 t = 0.5                 # Nearest-neighbor hopping
-U = 4.0                 # Coulomb repulsion
+U = 2.0                 # Coulomb repulsion
 h_field = 0.05          # Magnetic field
 
 spin_names = ("up", "dn")

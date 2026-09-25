@@ -1,0 +1,10 @@
+dimer     G2 up,dn  n_iw=5: factorized   12.99s  direct   74.27s  max|G| 3.704e-02  rel. max diff 1.72e-15
+dimer     G2 up,up  n_iw=5: factorized    0.06s  direct    0.00s  max|G| 1.599e-01  rel. max diff 1.40e-15
+dimer     density   n_iw=5: factorized    0.05s  direct    0.00s  max|G| 1.521e-02  rel. max diff 5.65e-14
+dimer     mixed     n_iw=5: factorized    0.05s  direct    0.00s  max|G| 7.721e-02  rel. max diff 3.17e-15
+PASS (worst rel. diff 5.65e-14)
+plaquette G2 up,dn  n_iw=2: factorized    2.62s  direct    2.14s  max|G| 3.347e-02  rel. max diff 1.59e-13
+plaquette G2 up,up  n_iw=2: factorized    1.45s  direct    1.34s  max|G| 1.676e-01  rel. max diff 9.59e-14
+plaquette density   n_iw=2: factorized    2.08s  direct    1.81s  max|G| 1.998e-02  rel. max diff 1.93e-10
+plaquette mixed     n_iw=2: factorized    2.73s  direct    2.94s  max|G| 7.377e-02  rel. max diff 8.48e-14
+PASS (worst rel. diff 1.93e-10)

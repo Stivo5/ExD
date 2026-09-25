@@ -1,0 +1,74 @@
+--------------------------------------------------------------------------
+Ignoring value for oob_tcp_if_exclude on worker7334 (10.250.112.0/20: Did not find interface matching this subnet).
+(You can safely ignore this message.)
+--------------------------------------------------------------------------
+Starting run with 90 MPI rank(s) at : 2026-09-24 08:39:41.225702
+Spin configuration is (up,up)
+Orbital configuration 0000, max difference is 2.2996866065410474e-16, number of points checked 4570
+Orbital configuration 0001, max difference is 1.1191655590652247e-16, number of points checked 4570
+Orbital configuration 0010, max difference is 7.181969932691307e-17, number of points checked 4570
+Orbital configuration 0011, max difference is 3.681048881090748e-16, number of points checked 4570
+Orbital configuration 0100, max difference is 5.2902595821734565e-17, number of points checked 4570
+Orbital configuration 0101, max difference is 3.84972455887397e-17, number of points checked 4570
+Orbital configuration 0110, max difference is 2.793066411846225e-16, number of points checked 4570
+Orbital configuration 0111, max difference is 1.0512266821340814e-16, number of points checked 4570
+Orbital configuration 1000, max difference is 7.232075486554823e-17, number of points checked 4570
+Orbital configuration 1001, max difference is 3.332294980281256e-16, number of points checked 4570
+Orbital configuration 1010, max difference is 2.9920422779352865e-17, number of points checked 4570
+Orbital configuration 1011, max difference is 8.069727767687918e-17, number of points checked 4570
+Orbital configuration 1100, max difference is 2.498965354837e-16, number of points checked 4570
+Orbital configuration 1101, max difference is 9.169863810248249e-17, number of points checked 4570
+Orbital configuration 1110, max difference is 6.23113541863764e-17, number of points checked 4570
+Orbital configuration 1111, max difference is 2.7902772320728015e-16, number of points checked 4570
+Spin configuration is (up,dn)
+Orbital configuration 0000, max difference is 7.836420099956501e-16, number of points checked 4570
+Orbital configuration 0001, max difference is 1.0894284410775378e-16, number of points checked 4570
+Orbital configuration 0010, max difference is 1.2533302082415627e-16, number of points checked 4570
+Orbital configuration 0011, max difference is 2.5476231888929306e-16, number of points checked 4570
+Orbital configuration 0100, max difference is 1.0479025731260269e-16, number of points checked 4570
+Orbital configuration 0101, max difference is 6.604258485546013e-17, number of points checked 4570
+Orbital configuration 0110, max difference is 4.487706498175664e-16, number of points checked 4570
+Orbital configuration 0111, max difference is 7.996680103938912e-17, number of points checked 4570
+Orbital configuration 1000, max difference is 1.0444418402013023e-16, number of points checked 4570
+Orbital configuration 1001, max difference is 5.038891961192772e-16, number of points checked 4570
+Orbital configuration 1010, max difference is 5.779454731423201e-17, number of points checked 4570
+Orbital configuration 1011, max difference is 1.5290187691960546e-16, number of points checked 4570
+Orbital configuration 1100, max difference is 1.6654757031124616e-16, number of points checked 4570
+Orbital configuration 1101, max difference is 1.3085668965781723e-16, number of points checked 4570
+Orbital configuration 1110, max difference is 3.0665377675848847e-16, number of points checked 4570
+Orbital configuration 1111, max difference is 6.667118051786499e-16, number of points checked 4570
+[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0mSpin configuration is (dn,up)
+Orbital configuration 0000, max difference is 2.503206405449228e-16, number of points checked 4570
+Orbital configuration 0001, max difference is 7.892991815694472e-17, number of points checked 4570
+Orbital configuration 0010, max difference is 1.22443248037348e-16, number of points checked 4570
+Orbital configuration 0011, max difference is 1.8694865080724238e-16, number of points checked 4570
+Orbital configuration 0100, max difference is 1.3825648157697098e-16, number of points checked 4570
+Orbital configuration 0101, max difference is 4.7873234448938625e-17, number of points checked 4570
+Orbital configuration 0110, max difference is 4.805027462414469e-16, number of points checked 4570
+Orbital configuration 0111, max difference is 1.8071123268772218e-16, number of points checked 4570
+Orbital configuration 1000, max difference is 1.1838137358113078e-16, number of points checked 4570
+Orbital configuration 1001, max difference is 5.625038278827344e-16, number of points checked 4570
+Orbital configuration 1010, max difference is 3.863801486416631e-17, number of points checked 4570
+Orbital configuration 1011, max difference is 1.3885984666023607e-16, number of points checked 4570
+Orbital configuration 1100, max difference is 2.0816681711721685e-16, number of points checked 4570
+Orbital configuration 1101, max difference is 1.1328952961336746e-16, number of points checked 4570
+Orbital configuration 1110, max difference is 9.464979401424365e-17, number of points checked 4570
+Orbital configuration 1111, max difference is 3.498640950825924e-16, number of points checked 4570
+[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0mSpin configuration is (dn,dn)
+Orbital configuration 0000, max difference is 8.327038455186537e-16, number of points checked 4570
+Orbital configuration 0001, max difference is 1.153297605929378e-16, number of points checked 4570
+Orbital configuration 0010, max difference is 1.4489095454929337e-16, number of points checked 4570
+Orbital configuration 0011, max difference is 1.5917919408906608e-16, number of points checked 4570
+Orbital configuration 0100, max difference is 1.3197871514352832e-16, number of points checked 4570
+Orbital configuration 0101, max difference is 2.414998510008992e-17, number of points checked 4570
+Orbital configuration 0110, max difference is 1.8371696240517996e-16, number of points checked 4570
+Orbital configuration 0111, max difference is 8.685860224022436e-17, number of points checked 4570
+Orbital configuration 1000, max difference is 1.2335152563727654e-16, number of points checked 4570
+Orbital configuration 1001, max difference is 1.4539632184201916e-16, number of points checked 4570
+Orbital configuration 1010, max difference is 2.7255450237892495e-17, number of points checked 4570
+Orbital configuration 1011, max difference is 7.65357658158434e-17, number of points checked 4570
+Orbital configuration 1100, max difference is 1.734723475976807e-16, number of points checked 4570
+Orbital configuration 1101, max difference is 6.955273130222859e-17, number of points checked 4570
+Orbital configuration 1110, max difference is 7.699514991262086e-17, number of points checked 4570
+Orbital configuration 1111, max difference is 3.8881600629153935e-16, number of points checked 4570
+[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m

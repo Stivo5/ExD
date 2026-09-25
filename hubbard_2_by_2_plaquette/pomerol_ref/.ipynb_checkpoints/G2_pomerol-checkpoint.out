@@ -1,0 +1,477 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) modules/2.4-20250724   2) openblas/single-0.3.29
+Error fetching ranges
+The docker module can be used to run a rootless docker daemon on your own workstation. If you have a
+workstation and you'd like to use docker, please try loading it there. For more details, see:
+https://wiki.flatironinstitute.org/SCC/Software/DockerSingularity 
+
+Lmod is automatically replacing "openblas/single-0.3.29" with "intel-oneapi-mkl/2024.2.2".
+
+--------------------------------------------------------------------------
+Ignoring value for oob_tcp_if_exclude on worker7173 (10.250.112.0/20: Did not find interface matching this subnet).
+(You can safely ignore this message.)
+--------------------------------------------------------------------------
+Starting run with 90 MPI rank(s) at : 2026-09-23 17:10:05.646150
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+Traceback (most recent call last):
+  File "/mnt/ceph/users/szhang2/ExD/hubbard_2_by_2_plaquette/pomerol_ref/G2_pomerol.py", line 84, in <module>
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+    ed.diagonalize(H)
+    ^^
+NameError: name 'ed' is not defined. Did you mean: 'id'?
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[46629,1],80]
+  Exit code:    1
+--------------------------------------------------------------------------

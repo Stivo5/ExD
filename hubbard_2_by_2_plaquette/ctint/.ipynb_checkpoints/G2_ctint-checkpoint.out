@@ -1,0 +1,266 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) modules/2.4-20250724   2) openblas/single-0.3.29
+
+Lmod is automatically replacing "openblas/single-0.3.29" with
+"intel-oneapi-mkl/2024.2.2".
+
+--------------------------------------------------------------------------
+Ignoring value for oob_tcp_if_exclude on worker7175 (10.250.112.0/20: Did not find interface matching this subnet).
+(You can safely ignore this message.)
+--------------------------------------------------------------------------
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+/mnt/home/szhang2/Softwares/ctint/ctint.build/install/lib/python3.11/site-packages/triqs_ctint/solver.py:6: FutureWarning: The triqs.gf module has been renamed to triqs.gfs. Please update your imports. triqs.gf will be removed in a future version.
+  from .solver_core import SolverCore
+Starting run with 96 MPI rank(s) at : 2026-09-25 12:00:14.566785
+Determine alpha-tensor from SC Hartree Fock solution
+  -- Found Sigma_HF : 
+        up : 	[[ 2.0730e+00 -1.1616e-26]
+           	 [-4.0886e-27  2.2025e+00]]
+        dn : 	[[ 1.7975e+00 -1.6631e-27]
+           	 [-3.4032e-26  1.9270e+00]]
+  -- HF Densities : 
+        up : 	[0.4494 0.4817]    Total: 0.9311
+        dn : 	[0.5183 0.5506]    Total: 1.0689
+  -- Alpha Tensor : 
+        up : 	[[0.5494 0.3494]
+           	 [0.5817 0.3817]]
+        dn : 	[[0.4183 0.6183]
+           	 [0.4506 0.6506]]
+
+╔╦╗╦═╗╦╔═╗ ╔═╗  ┌─┐┌┬┐┬ ┌┐┌┌┬┐
+ ║ ╠╦╝║║═╬╗╚═╗  │   │ │ │││ │ 
+ ╩ ╩╚═╩╚═╝╚╚═╝  └─┘ ┴ ┴ ┘└┘ ┴ 
+
+Warming up ...
+[Rank 0] 12:00:14   0.02% done, ETA 00:06:14, cycle 1 of 5000, 6.68e+00 cycles/sec
+  Average perturbation order: 3
+  Average sign: 1
+[Rank 0] 12:00:15 100.00% done, ETA 00:00:00, cycle 5000 of 5000, 2.23e+04 cycles/sec
+  Average perturbation order: 3.92
+  Average sign: 0.9988
+
+Accumulating ...
+[Rank 0] 12:00:15   0.03% done, ETA 00:06:19, cycle 26 of 100000, 2.54e+02 cycles/sec
+  Average perturbation order: 3.84615
+  Average sign: 1
+[Rank 0] 12:00:17   0.54% done, ETA 00:06:31, cycle 539 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.84787
+  Average sign: 0.996289
+[Rank 0] 12:00:19   1.18% done, ETA 00:06:29, cycle 1181 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.82218
+  Average sign: 0.998307
+[Rank 0] 12:00:22   1.99% done, ETA 00:06:26, cycle 1986 of 100000, 2.54e+02 cycles/sec
+  Average perturbation order: 3.82477
+  Average sign: 0.997986
+[Rank 0] 12:00:26   2.98% done, ETA 00:06:23, cycle 2984 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.89042
+  Average sign: 0.99866
+[Rank 0] 12:00:31   4.24% done, ETA 00:06:18, cycle 4238 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.89665
+  Average sign: 0.999056
+[Rank 0] 12:00:37   5.80% done, ETA 00:06:12, cycle 5800 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.915
+  Average sign: 0.998621
+[Rank 0] 12:00:45   7.76% done, ETA 00:06:04, cycle 7759 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.92654
+  Average sign: 0.998196
+[Rank 0] 12:00:55  10.21% done, ETA 00:05:54, cycle 10211 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.90784
+  Average sign: 0.998433
+[Rank 0] 12:01:07  13.27% done, ETA 00:05:42, cycle 13270 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.89834
+  Average sign: 0.998493
+[Rank 0] 12:01:22  17.09% done, ETA 00:05:27, cycle 17094 of 100000, 2.53e+02 cycles/sec
+  Average perturbation order: 3.8909
+  Average sign: 0.998713

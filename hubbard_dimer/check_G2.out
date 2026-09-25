@@ -1,74 +1,147 @@
 --------------------------------------------------------------------------
-Ignoring value for oob_tcp_if_exclude on worker7187 (10.250.112.0/20: Did not find interface matching this subnet).
+Ignoring value for oob_tcp_if_exclude on worker7178 (10.250.112.0/20: Did not find interface matching this subnet).
 (You can safely ignore this message.)
 --------------------------------------------------------------------------
-Starting run with 90 MPI rank(s) at : 2026-09-23 16:35:28.747965
+Starting run with 96 MPI rank(s) at : 2026-09-25 12:37:06.178021
+Computed 64 components on 96 rank(s) in 3.4 s
+
+===== Divided difference vs CTINT =====
 Spin configuration is (up,up)
-Orbital configuration 0000, max difference is 2.2996866065410474e-16, number of points checked 4570
-Orbital configuration 0001, max difference is 1.1191655590652247e-16, number of points checked 4570
-Orbital configuration 0010, max difference is 7.181969932691307e-17, number of points checked 4570
-Orbital configuration 0011, max difference is 3.681048881090748e-16, number of points checked 4570
-Orbital configuration 0100, max difference is 5.2902595821734565e-17, number of points checked 4570
-Orbital configuration 0101, max difference is 3.84972455887397e-17, number of points checked 4570
-Orbital configuration 0110, max difference is 2.793066411846225e-16, number of points checked 4570
-Orbital configuration 0111, max difference is 1.0512266821340814e-16, number of points checked 4570
-Orbital configuration 1000, max difference is 7.232075486554823e-17, number of points checked 4570
-Orbital configuration 1001, max difference is 3.332294980281256e-16, number of points checked 4570
-Orbital configuration 1010, max difference is 2.9920422779352865e-17, number of points checked 4570
-Orbital configuration 1011, max difference is 8.069727767687918e-17, number of points checked 4570
-Orbital configuration 1100, max difference is 2.498965354837e-16, number of points checked 4570
-Orbital configuration 1101, max difference is 9.169863810248249e-17, number of points checked 4570
-Orbital configuration 1110, max difference is 6.23113541863764e-17, number of points checked 4570
-Orbital configuration 1111, max difference is 2.7902772320728015e-16, number of points checked 4570
+Orbital configuration 0000, max difference is 6.787548730397083e-05, max |G2_ref| is 0.3098353733513719, number of points checked 4570
+Orbital configuration 0001, max difference is 2.4715013387250865e-05, max |G2_ref| is 0.04211944172403236, number of points checked 4570
+Orbital configuration 0010, max difference is 4.665929023076049e-05, max |G2_ref| is 0.04212030802829609, number of points checked 4570
+Orbital configuration 0011, max difference is 0.00012582557283178134, max |G2_ref| is 0.15984015078930486, number of points checked 4570
+Orbital configuration 0100, max difference is 2.4715013387257018e-05, max |G2_ref| is 0.04211944172403235, number of points checked 4570
+Orbital configuration 0101, max difference is 1.0742300840006769e-05, max |G2_ref| is 0.013254951612449866, number of points checked 4570
+Orbital configuration 0110, max difference is 0.00012582557283177196, max |G2_ref| is 0.1598401507893048, number of points checked 4570
+Orbital configuration 0111, max difference is 3.509047585122785e-05, max |G2_ref| is 0.04223815331859295, number of points checked 4570
+Orbital configuration 1000, max difference is 4.6659290230763456e-05, max |G2_ref| is 0.04212030802829607, number of points checked 4570
+Orbital configuration 1001, max difference is 0.00012582557283178738, max |G2_ref| is 0.1598401507893048, number of points checked 4570
+Orbital configuration 1010, max difference is 4.11658128968311e-06, max |G2_ref| is 0.013262600573751872, number of points checked 4570
+Orbital configuration 1011, max difference is 1.58793038218667e-05, max |G2_ref| is 0.04223915659833252, number of points checked 4570
+Orbital configuration 1100, max difference is 0.0001258255728317743, max |G2_ref| is 0.15984015078930486, number of points checked 4570
+Orbital configuration 1101, max difference is 3.509047585123832e-05, max |G2_ref| is 0.042238153318592944, number of points checked 4570
+Orbital configuration 1110, max difference is 1.5879303821915402e-05, max |G2_ref| is 0.04223915659833252, number of points checked 4570
+Orbital configuration 1111, max difference is 8.369140931830517e-05, max |G2_ref| is 0.30784327535818745, number of points checked 4570
 Spin configuration is (up,dn)
-Orbital configuration 0000, max difference is 7.836420099956501e-16, number of points checked 4570
-Orbital configuration 0001, max difference is 1.0894284410775378e-16, number of points checked 4570
-Orbital configuration 0010, max difference is 1.2533302082415627e-16, number of points checked 4570
-Orbital configuration 0011, max difference is 2.5476231888929306e-16, number of points checked 4570
-Orbital configuration 0100, max difference is 1.0479025731260269e-16, number of points checked 4570
-Orbital configuration 0101, max difference is 6.604258485546013e-17, number of points checked 4570
-Orbital configuration 0110, max difference is 4.487706498175664e-16, number of points checked 4570
-Orbital configuration 0111, max difference is 7.996680103938912e-17, number of points checked 4570
-Orbital configuration 1000, max difference is 1.0444418402013023e-16, number of points checked 4570
-Orbital configuration 1001, max difference is 5.038891961192772e-16, number of points checked 4570
-Orbital configuration 1010, max difference is 5.779454731423201e-17, number of points checked 4570
-Orbital configuration 1011, max difference is 1.5290187691960546e-16, number of points checked 4570
-Orbital configuration 1100, max difference is 1.6654757031124616e-16, number of points checked 4570
-Orbital configuration 1101, max difference is 1.3085668965781723e-16, number of points checked 4570
-Orbital configuration 1110, max difference is 3.0665377675848847e-16, number of points checked 4570
-Orbital configuration 1111, max difference is 6.667118051786499e-16, number of points checked 4570
+Orbital configuration 0000, max difference is 0.0004025445825601115, max |G2_ref| is 0.5212673065664981, number of points checked 4570
+Orbital configuration 0001, max difference is 0.0001647513897792488, max |G2_ref| is 0.06582144524196602, number of points checked 4570
+Orbital configuration 0010, max difference is 0.0003151440657795419, max |G2_ref| is 0.06610092192819471, number of points checked 4570
+Orbital configuration 0011, max difference is 0.00021446109901537315, max |G2_ref| is 0.1516954619334609, number of points checked 4570
+Orbital configuration 0100, max difference is 0.0003166572175671846, max |G2_ref| is 0.06540132959911962, number of points checked 4570
+Orbital configuration 0101, max difference is 0.00020292216484752465, max |G2_ref| is 0.03690319600104939, number of points checked 4570
+Orbital configuration 0110, max difference is 0.00035075165611586374, max |G2_ref| is 0.04373792884718403, number of points checked 4570
+Orbital configuration 0111, max difference is 0.00016018447422926015, max |G2_ref| is 0.06584265755097275, number of points checked 4570
+Orbital configuration 1000, max difference is 0.00016223109033596181, max |G2_ref| is 0.06510751904651296, number of points checked 4570
+Orbital configuration 1001, max difference is 0.00018926742849869179, max |G2_ref| is 0.04361244392100484, number of points checked 4570
+Orbital configuration 1010, max difference is 0.00021125882444440134, max |G2_ref| is 0.03689379973327428, number of points checked 4570
+Orbital configuration 1011, max difference is 0.00016066960908365184, max |G2_ref| is 0.06579777296863594, number of points checked 4570
+Orbital configuration 1100, max difference is 0.000234302576769819, max |G2_ref| is 0.14999236308448605, number of points checked 4570
+Orbital configuration 1101, max difference is 0.0001613215264427109, max |G2_ref| is 0.06508463957956305, number of points checked 4570
+Orbital configuration 1110, max difference is 0.0001945842954149973, max |G2_ref| is 0.06512305993946133, number of points checked 4570
+Orbital configuration 1111, max difference is 0.000901929571303855, max |G2_ref| is 0.5202026471716789, number of points checked 4570
 Spin configuration is (dn,up)
-Orbital configuration 0000, max difference is 2.503206405449228e-16, number of points checked 4570
-Orbital configuration 0001, max difference is 7.892991815694472e-17, number of points checked 4570
-Orbital configuration 0010, max difference is 1.22443248037348e-16, number of points checked 4570
-Orbital configuration 0011, max difference is 1.8694865080724238e-16, number of points checked 4570
-Orbital configuration 0100, max difference is 1.3825648157697098e-16, number of points checked 4570
-Orbital configuration 0101, max difference is 4.7873234448938625e-17, number of points checked 4570
-Orbital configuration 0110, max difference is 4.805027462414469e-16, number of points checked 4570
-Orbital configuration 0111, max difference is 1.8071123268772218e-16, number of points checked 4570
-Orbital configuration 1000, max difference is 1.1838137358113078e-16, number of points checked 4570
-Orbital configuration 1001, max difference is 5.625038278827344e-16, number of points checked 4570
-Orbital configuration 1010, max difference is 3.863801486416631e-17, number of points checked 4570
-Orbital configuration 1011, max difference is 1.3885984666023607e-16, number of points checked 4570
-Orbital configuration 1100, max difference is 2.0816681711721685e-16, number of points checked 4570
-Orbital configuration 1101, max difference is 1.1328952961336746e-16, number of points checked 4570
-Orbital configuration 1110, max difference is 9.464979401424365e-17, number of points checked 4570
-Orbital configuration 1111, max difference is 3.498640950825924e-16, number of points checked 4570
-[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0mSpin configuration is (dn,dn)
-Orbital configuration 0000, max difference is 8.327038455186537e-16, number of points checked 4570
-Orbital configuration 0001, max difference is 1.153297605929378e-16, number of points checked 4570
-Orbital configuration 0010, max difference is 1.4489095454929337e-16, number of points checked 4570
-Orbital configuration 0011, max difference is 1.5917919408906608e-16, number of points checked 4570
-Orbital configuration 0100, max difference is 1.3197871514352832e-16, number of points checked 4570
-Orbital configuration 0101, max difference is 2.414998510008992e-17, number of points checked 4570
-Orbital configuration 0110, max difference is 1.8371696240517996e-16, number of points checked 4570
-Orbital configuration 0111, max difference is 8.685860224022436e-17, number of points checked 4570
-Orbital configuration 1000, max difference is 1.2335152563727654e-16, number of points checked 4570
-Orbital configuration 1001, max difference is 1.4539632184201916e-16, number of points checked 4570
-Orbital configuration 1010, max difference is 2.7255450237892495e-17, number of points checked 4570
-Orbital configuration 1011, max difference is 7.65357658158434e-17, number of points checked 4570
-Orbital configuration 1100, max difference is 1.734723475976807e-16, number of points checked 4570
-Orbital configuration 1101, max difference is 6.955273130222859e-17, number of points checked 4570
-Orbital configuration 1110, max difference is 7.699514991262086e-17, number of points checked 4570
-Orbital configuration 1111, max difference is 3.8881600629153935e-16, number of points checked 4570
-[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
+Orbital configuration 0000, max difference is 0.000402544582560113, max |G2_ref| is 0.5212673065664982, number of points checked 4570
+Orbital configuration 0001, max difference is 0.00031665721756721644, max |G2_ref| is 0.06540132959911962, number of points checked 4570
+Orbital configuration 0010, max difference is 0.0001622310903360311, max |G2_ref| is 0.06510751904651299, number of points checked 4570
+Orbital configuration 0011, max difference is 0.00023430257676977702, max |G2_ref| is 0.14999236308448605, number of points checked 4570
+Orbital configuration 0100, max difference is 0.00016475138977926245, max |G2_ref| is 0.06582144524196602, number of points checked 4570
+Orbital configuration 0101, max difference is 0.00020292216484755373, max |G2_ref| is 0.03690319600104939, number of points checked 4570
+Orbital configuration 0110, max difference is 0.00018926742849869715, max |G2_ref| is 0.04361244392100483, number of points checked 4570
+Orbital configuration 0111, max difference is 0.00016132152644271887, max |G2_ref| is 0.06508463957956302, number of points checked 4570
+Orbital configuration 1000, max difference is 0.0003151440657795143, max |G2_ref| is 0.06610092192819472, number of points checked 4570
+Orbital configuration 1001, max difference is 0.00035075165611586883, max |G2_ref| is 0.04373792884718404, number of points checked 4570
+Orbital configuration 1010, max difference is 0.0002112588244444637, max |G2_ref| is 0.03689379973327427, number of points checked 4570
+Orbital configuration 1011, max difference is 0.00019458429541501516, max |G2_ref| is 0.06512305993946133, number of points checked 4570
+Orbital configuration 1100, max difference is 0.00021446109901535396, max |G2_ref| is 0.1516954619334609, number of points checked 4570
+Orbital configuration 1101, max difference is 0.00016018447422927497, max |G2_ref| is 0.06584265755097275, number of points checked 4570
+Orbital configuration 1110, max difference is 0.00016066960908363761, max |G2_ref| is 0.06579777296863594, number of points checked 4570
+Orbital configuration 1111, max difference is 0.0009019295713037822, max |G2_ref| is 0.5202026471716789, number of points checked 4570
+Spin configuration is (dn,dn)
+Orbital configuration 0000, max difference is 7.550427990965503e-05, max |G2_ref| is 0.3078037192381921, number of points checked 4570
+Orbital configuration 0001, max difference is 3.6202162141648486e-05, max |G2_ref| is 0.04224526482334928, number of points checked 4570
+Orbital configuration 0010, max difference is 1.990393907024731e-05, max |G2_ref| is 0.04224151207276344, number of points checked 4570
+Orbital configuration 0011, max difference is 9.766696396344693e-05, max |G2_ref| is 0.15981489166669685, number of points checked 4570
+Orbital configuration 0100, max difference is 3.620216214170121e-05, max |G2_ref| is 0.042245264823349296, number of points checked 4570
+Orbital configuration 0101, max difference is 4.330619376830317e-06, max |G2_ref| is 0.013261460515693387, number of points checked 4570
+Orbital configuration 0110, max difference is 9.766696396350214e-05, max |G2_ref| is 0.15981489166669685, number of points checked 4570
+Orbital configuration 0111, max difference is 1.519273850004796e-05, max |G2_ref| is 0.04211902730470044, number of points checked 4570
+Orbital configuration 1000, max difference is 1.9903939070245345e-05, max |G2_ref| is 0.042241512072763436, number of points checked 4570
+Orbital configuration 1001, max difference is 9.766696396345012e-05, max |G2_ref| is 0.15981489166669685, number of points checked 4570
+Orbital configuration 1010, max difference is 9.287975812250632e-06, max |G2_ref| is 0.01325640593747764, number of points checked 4570
+Orbital configuration 1011, max difference is 3.316097304371543e-05, max |G2_ref| is 0.042120470703946304, number of points checked 4570
+Orbital configuration 1100, max difference is 9.766696396349858e-05, max |G2_ref| is 0.15981489166669685, number of points checked 4570
+Orbital configuration 1101, max difference is 1.5192738500048675e-05, max |G2_ref| is 0.042119027304700456, number of points checked 4570
+Orbital configuration 1110, max difference is 3.316097304375314e-05, max |G2_ref| is 0.0421204707039463, number of points checked 4570
+Orbital configuration 1111, max difference is 5.90066171210159e-05, max |G2_ref| is 0.30986163447610504, number of points checked 4570
+
+===== Divided difference vs Pomerol =====
+Spin configuration is (up,up)
+Orbital configuration 0000, max difference is 1.1328952961336746e-16, max |G2_ref| is 0.30989758143093, number of points checked 4570
+Orbital configuration 0001, max difference is 6.517489076424615e-17, max |G2_ref| is 0.04213171465367992, number of points checked 4570
+Orbital configuration 0010, max difference is 5.859829398603684e-17, max |G2_ref| is 0.0421317146536799, number of points checked 4570
+Orbital configuration 0011, max difference is 2.316229393072649e-16, max |G2_ref| is 0.15988246822231136, number of points checked 4570
+Orbital configuration 0100, max difference is 6.00988432676586e-17, max |G2_ref| is 0.04213171465367993, number of points checked 4570
+Orbital configuration 0101, max difference is 1.1926223897340549e-17, max |G2_ref| is 0.013265693913289866, number of points checked 4570
+Orbital configuration 0110, max difference is 2.306595211858756e-16, max |G2_ref| is 0.15988246822231142, number of points checked 4570
+Orbital configuration 0111, max difference is 7.757919228897728e-17, max |G2_ref| is 0.04225480664624657, number of points checked 4570
+Orbital configuration 1000, max difference is 5.379282627199617e-17, max |G2_ref| is 0.042131714653679916, number of points checked 4570
+Orbital configuration 1001, max difference is 2.220717083251841e-16, max |G2_ref| is 0.15988246822231147, number of points checked 4570
+Orbital configuration 1010, max difference is 1.241232821735171e-17, max |G2_ref| is 0.013265693913289866, number of points checked 4570
+Orbital configuration 1011, max difference is 8.355534721610419e-17, max |G2_ref| is 0.04225480664624655, number of points checked 4570
+Orbital configuration 1100, max difference is 1.9638418250041014e-16, max |G2_ref| is 0.15988246822231145, number of points checked 4570
+Orbital configuration 1101, max difference is 6.639709341020816e-17, max |G2_ref| is 0.042254806646246555, number of points checked 4570
+Orbital configuration 1110, max difference is 6.687690861581925e-17, max |G2_ref| is 0.04225480664624655, number of points checked 4570
+Orbital configuration 1111, max difference is 8.626652697155371e-17, max |G2_ref| is 0.30787922351810165, number of points checked 4570
+Spin configuration is (up,dn)
+Orbital configuration 0000, max difference is 3.3524625175704445e-16, max |G2_ref| is 0.5211035489524535, number of points checked 4570
+Orbital configuration 0001, max difference is 1.5694274914275591e-16, max |G2_ref| is 0.065912056106033, number of points checked 4570
+Orbital configuration 0010, max difference is 6.206335383118183e-17, max |G2_ref| is 0.06591205610603297, number of points checked 4570
+Orbital configuration 0011, max difference is 1.462527245724015e-16, max |G2_ref| is 0.15178793795269113, number of points checked 4570
+Orbital configuration 0100, max difference is 8.175430777168541e-17, max |G2_ref| is 0.06518995255639772, number of points checked 4570
+Orbital configuration 0101, max difference is 1.161909708274501e-16, max |G2_ref| is 0.0370361754461084, number of points checked 4570
+Orbital configuration 0110, max difference is 6.594339860580971e-16, max |G2_ref| is 0.043570960814092015, number of points checked 4570
+Orbital configuration 0111, max difference is 1.3426538379312244e-16, max |G2_ref| is 0.06591205610603292, number of points checked 4570
+Orbital configuration 1000, max difference is 9.383956138473751e-17, max |G2_ref| is 0.0651899525563977, number of points checked 4570
+Orbital configuration 1001, max difference is 5.863856507098927e-16, max |G2_ref| is 0.04357096081409202, number of points checked 4570
+Orbital configuration 1010, max difference is 9.313494984944284e-17, max |G2_ref| is 0.037036175446108405, number of points checked 4570
+Orbital configuration 1011, max difference is 1.4426979300394019e-16, max |G2_ref| is 0.06591205610603293, number of points checked 4570
+Orbital configuration 1100, max difference is 1.8776728960188684e-16, max |G2_ref| is 0.1500619176733908, number of points checked 4570
+Orbital configuration 1101, max difference is 1.1237273029642619e-16, max |G2_ref| is 0.06518995255639763, number of points checked 4570
+Orbital configuration 1110, max difference is 1.943011294032876e-16, max |G2_ref| is 0.06518995255639763, number of points checked 4570
+Orbital configuration 1111, max difference is 3.345273782981758e-16, max |G2_ref| is 0.5211035489524535, number of points checked 4570
+Spin configuration is (dn,up)
+Orbital configuration 0000, max difference is 4.441027621704298e-16, max |G2_ref| is 0.5211035489524534, number of points checked 4570
+Orbital configuration 0001, max difference is 1.2213565143512723e-16, max |G2_ref| is 0.0651899525563977, number of points checked 4570
+Orbital configuration 0010, max difference is 1.2781230790772626e-16, max |G2_ref| is 0.0651899525563977, number of points checked 4570
+Orbital configuration 0011, max difference is 1.3329179921125024e-16, max |G2_ref| is 0.15006191767339086, number of points checked 4570
+Orbital configuration 0100, max difference is 6.397344083151129e-17, max |G2_ref| is 0.06591205610603298, number of points checked 4570
+Orbital configuration 0101, max difference is 7.661565101874416e-17, max |G2_ref| is 0.037036175446108405, number of points checked 4570
+Orbital configuration 0110, max difference is 6.896188486780604e-16, max |G2_ref| is 0.043570960814092015, number of points checked 4570
+Orbital configuration 0111, max difference is 2.190191438876058e-16, max |G2_ref| is 0.06518995255639762, number of points checked 4570
+Orbital configuration 1000, max difference is 1.3774403514400317e-16, max |G2_ref| is 0.06591205610603297, number of points checked 4570
+Orbital configuration 1001, max difference is 5.345324279744264e-16, max |G2_ref| is 0.04357096081409202, number of points checked 4570
+Orbital configuration 1010, max difference is 9.162149353600044e-17, max |G2_ref| is 0.03703617544610843, number of points checked 4570
+Orbital configuration 1011, max difference is 1.0783577493402856e-16, max |G2_ref| is 0.06518995255639762, number of points checked 4570
+Orbital configuration 1100, max difference is 1.5887642787281318e-16, max |G2_ref| is 0.15178793795269113, number of points checked 4570
+Orbital configuration 1101, max difference is 1.5081373032115656e-16, max |G2_ref| is 0.06591205610603294, number of points checked 4570
+Orbital configuration 1110, max difference is 2.136920400648356e-16, max |G2_ref| is 0.06591205610603292, number of points checked 4570
+Orbital configuration 1111, max difference is 2.383840817285749e-16, max |G2_ref| is 0.5211035489524535, number of points checked 4570
+[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0mSpin configuration is (dn,dn)
+Orbital configuration 0000, max difference is 1.6661845193214e-16, max |G2_ref| is 0.3078792235181016, number of points checked 4570
+Orbital configuration 0001, max difference is 1.577001037516612e-16, max |G2_ref| is 0.04225480664624661, number of points checked 4570
+Orbital configuration 0010, max difference is 1.6515669878563436e-16, max |G2_ref| is 0.0422548066462466, number of points checked 4570
+Orbital configuration 0011, max difference is 2.266657861503667e-16, max |G2_ref| is 0.15988246822231153, number of points checked 4570
+Orbital configuration 0100, max difference is 1.5063154436343048e-16, max |G2_ref| is 0.042254806646246604, number of points checked 4570
+Orbital configuration 0101, max difference is 2.755091108911727e-17, max |G2_ref| is 0.0132656939132899, number of points checked 4570
+Orbital configuration 0110, max difference is 1.3710848503388138e-16, max |G2_ref| is 0.15988246822231153, number of points checked 4570
+Orbital configuration 0111, max difference is 1.1476166043854938e-16, max |G2_ref| is 0.04213171465367992, number of points checked 4570
+Orbital configuration 1000, max difference is 1.5063154436343048e-16, max |G2_ref| is 0.04225480664624658, number of points checked 4570
+Orbital configuration 1001, max difference is 2.2530044628618934e-16, max |G2_ref| is 0.1598824682223115, number of points checked 4570
+Orbital configuration 1010, max difference is 3.3291358218726915e-17, max |G2_ref| is 0.013265693913289911, number of points checked 4570
+Orbital configuration 1011, max difference is 7.55065668735916e-17, max |G2_ref| is 0.042131714653679916, number of points checked 4570
+Orbital configuration 1100, max difference is 1.6512901106231783e-16, max |G2_ref| is 0.15988246822231147, number of points checked 4570
+Orbital configuration 1101, max difference is 1.1056395855868794e-16, max |G2_ref| is 0.042131714653679916, number of points checked 4570
+Orbital configuration 1110, max difference is 7.300795562381253e-17, max |G2_ref| is 0.04213171465367991, number of points checked 4570
+Orbital configuration 1111, max difference is 9.15467340958845e-17, max |G2_ref| is 0.30989758143093, number of points checked 4570
+[0m[0m[0m
